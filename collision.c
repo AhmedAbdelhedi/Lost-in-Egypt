@@ -1,9 +1,9 @@
 /**
 * @file collision.c
  * @brief collision 
- * @ author Mbarki Zeineb 
+ * @ author Ahmed
  * @ version 0.1 
-  *@ date juin 06 , 2020
+  *@ date juin 10 , 2020
 */
 
 
